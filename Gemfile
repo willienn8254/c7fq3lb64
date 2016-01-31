@@ -1,6 +1,8 @@
 source 'https://rubygems.org'
 gem 'coffee-script-source', '1.8.0'
 
+gem 'devise'
+
 gem 'tzinfo-data'
 gem 'tzinfo'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
